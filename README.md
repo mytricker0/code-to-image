@@ -16,3 +16,4 @@ sudo python3 code_to_image.py [file_with_code] -(png,jpeg or gif)  [the output o
 example :
 sudo python3 code_to_image.py reverse_shell.c -jpeg rev_shell.jpeg 
 
+![alt text](https://imgur.com/a/f2mmnZJ)
